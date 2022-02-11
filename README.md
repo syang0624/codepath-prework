@@ -39,6 +39,7 @@ I wanted to develop more features below; however, since I am new to SWIFT, I cou
 - I wanted to add features including custom tip, setting a custom percentage.
 - I wanted to make a box that the user can write their tips in $ and calculate the %.
 - I wanted to add more colors.
+- The total tip does not updated dynamically if the user re-enter the bill amount.
 
 ## License
 
