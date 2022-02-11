@@ -35,7 +35,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I wanted to develop more features below; however, since I am new to SWIFT, I couldn't finish this. Possible improvements are:
+- I wanted to add features including custom tip, setting a custom percentage.
+- I wanted to make a box that the user can write their tips in $ and calculate the %.
+- I wanted to add more colors.
 
 ## License
 
